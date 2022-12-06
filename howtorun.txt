@@ -1,1 +1,2 @@
+To run the website use the URL below:
 https://tanusrixh.github.io/project_one/
